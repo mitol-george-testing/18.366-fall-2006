@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fbc0e219-bf98-ad34-1799-8ec0484b2200"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Random Walks and Diffusion",
+  "course_description": "This graduate-level subject explores various mathematical aspects of (discrete) random walks and (continuum) diffusion. Applications include polymers, disordered media, turbulence, diffusion-limited aggregation, granular flow, and derivative securities.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.366",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
